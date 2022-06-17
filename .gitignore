@@ -1,0 +1,20 @@
+# esto es un comentario en este tipo de archivo
+
+
+
+# ignorar archivo
+
+nombrearchivo
+
+# Ignorar Carpeta
+
+nombrecarpeta/
+
+# Ignorar nombre de grupos
+
+.js
+
+.txt
+
+.gif
+
